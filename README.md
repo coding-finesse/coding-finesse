@@ -1,4 +1,4 @@
-<h2> Hi, I'm Aarzoo Sharma! <img src="<div style="width:100%;height:0;padding-bottom:73%;position:relative;"><iframe src="https://giphy.com/embed/Wj7lNjMNDxSmc" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dog-miss-Wj7lNjMNDxSmc">via GIPHY</a></p>"
+<h2> Hi, I'm Aarzoo Sharma! <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ekjmhJUGHJm7FC4Juo/giphy.gif" width="230">
 <p><em>Pre Final Year Undergraduate at <a href="https://www.thapar.edu/">Thapar University </a><img src="https://media.giphy.com/media/fhAwk4DnqNgw8/giphy.gif" width="30"></br> Pursuing BE <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjKq5fUibP0AhWdT2wGHYFRCIkQFnoECAMQAQ&url=https%3A%2F%2Fwww.thapar.edu%2Facademics%2Fdepartments%2Fcomputer-science-engineering&usg=AOvVaw3WOAzIItnW_YAgPFCbWHFe">Computer Engineering</a><img src="https://media.giphy.com/media/iJ29O6lse1NPFUYMR5/giphy.gif" width="30"> 
 </em></p>
