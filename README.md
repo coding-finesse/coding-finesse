@@ -1,5 +1,5 @@
 <h2> Hi, I'm Aarzoo Sharma! <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ekjmhJUGHJm7FC4Juo/giphy.gif" width="330">
+<img align='right' src="https://media.giphy.com/media/ekjmhJUGHJm7FC4Juo/giphy.gif" width="270">
 <p><em>Pre Final Year Undergraduate at <a href="https://www.thapar.edu/">Thapar University </a><img src="https://media.giphy.com/media/fhAwk4DnqNgw8/giphy.gif" width="30"></br> Pursuing BE <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjKq5fUibP0AhWdT2wGHYFRCIkQFnoECAMQAQ&url=https%3A%2F%2Fwww.thapar.edu%2Facademics%2Fdepartments%2Fcomputer-science-engineering&usg=AOvVaw3WOAzIItnW_YAgPFCbWHFe">Computer Engineering</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
