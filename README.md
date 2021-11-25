@@ -34,6 +34,6 @@ const Aarzoo = {
 }
 ```
 
-<img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="50"></h2>" width="60"> <em><b>Long story-short: My diverse experiences are bound by three core values- Technology, Marketing and Social impact.</b> Here is my life story; and I hope to learn from yours- <b>let’s connect!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Long story-short: My diverse experiences are bound by three core values- Technology, Marketing and Social impact.</b> Here is my life story; and I hope to learn from yours- <b>let’s connect!</b> :)</em>
 
 ---
