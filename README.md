@@ -13,24 +13,26 @@
 ```javascript
 const Aarzoo = {
   pronouns: "she" | "her",
-  code: [Cpp, Python, HTML, CSS, R],
-  tools: [MATLAB, Adobe Spark AR Studio, Collab, RStudio],
+  code: [C++, HTML, CSS, C#],
+  tools: [Unity, Blender, Google Cloud],
   
   techCommunities: {
                         Microsoft Learn Student Ambassador: "Microsoft",
                         Member: "WomenWhoCode",
                         Member: "WomenInTech"
                       },
- My Story: "Progress, not perfection. As a child, everyone dreams of a very elated future with luxury, popularity, and success. But, as age climbs, the dreams get replaced by practical goals. In the next ten years, I will have lived across Asia and Europe, bombarding my socials with my own version of TLC and a breath-taking book collection. While at it I aspire to pursue specialization in Data Science and explore all avenues of business administration & financial management."
+ My Story: "Progress, not perfection. I am a third-year undergraduate
+ student pursuing Computer Engineering.
+ I have always admired the world of technology, and here I am,
+ pursuing my dream career.
+ Developers and engineers have always been my superheroes."
 
-"Meanwhile, making good use of my bachelors in Computer Engineering, and becoming a Thoughtful leader of the workplace, motivated and passionate about building companies and organisations from within and to contribute to the team’s success."
+"I am a firm believer in Women in Tech and using STEM for Social Good. 
+I recently represented India at Girl Up's STEM for Social Good Tour hosted 
+a fireside chat with Ms. Lauren Neal, Vice President, Booz Allen Hamilton, USA."
 
-"Almost a year ago, I founded Girl Up, a UNF initiative in my hometown, Ludhiana providing a platform and guiding girls along their journey from leaders to changemakers and have been advocating for gender-neutral rights with HeForShe, generated new business with marketing initiatives and strategic plans along with leading the global campaign #EncouragetheCourage over Asia & African subcontinent and being one of its star performers, managed the Sales & Marketing of the Punjab Region, planned and implemented digital marketing campaigns, collaborations with influencers mainly from Bollywood & regional artists, bloggers, and celebrities hence increased conversions and witnessed record-breaking sales throughout my tenure, co-founded a health tech project focused on providing a brand new perspective in the field of Alzheimer's care and Engaged with world leaders and emerging leaders to supercharge and accelerate solutions for the sustainable development goals in SDG Action Zone."
+"As I move ahead with my technical journey, I want to be more purposeful in my contributions to the tech community and many people who share the same dream, to be a great developer from one day to day one!."
 
-"My social projects have been acknowledged by notable organizations including Girl Up Foundation and were featured among 14 Indian Community leaders this International Women's Day."
-
-"So far so good ,At times Being the only woman or the youngest person in the room, I have embraced challenges, won over difficult clients and am passionate about discovering new technical advances,the power and drive of innovation it brings along.With a question of 'How can we get more women into STEM degree programs and careers?' to address.
-"
 }
 ```
 
