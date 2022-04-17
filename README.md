@@ -38,6 +38,9 @@ to be a great developer from one day to day one!."
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Long story-short: My diverse experiences are bound by three core values- Technology, Marketing and Social impact.</b> Here is my life story; and I hope to learn from yours- <b>let’s connect!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Long story-short: My diverse experiences are bound by two core values- Technology and Social impact.
+  
+  </b> Here is my life story; and I hope to learn from yours- 
+  <b>let’s connect!</b> :)</em>
 
 ---
