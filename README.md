@@ -31,7 +31,9 @@ const Aarzoo = {
 I recently represented India at Girl Up's STEM for Social Good Tour hosted 
 a fireside chat with Ms. Lauren Neal, Vice President, Booz Allen Hamilton, USA."
 
-"As I move ahead with my technical journey, I want to be more purposeful in my contributions to the tech community and many people who share the same dream, to be a great developer from one day to day one!."
+"As I move ahead with my technical journey, I want to be more purposeful in my 
+contributions to the tech community and many people who share the same dream, 
+to be a great developer from one day to day one!."
 
 }
 ```
