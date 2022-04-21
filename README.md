@@ -4,7 +4,7 @@
 </em></p>
 
 [![Twitter: AarzooSharma](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fcoding_finesse%3Fs%3D09)](https://twitter.com/coding_finesse?s=09)
-[![Linkedin: AarzooSharma](https://img.shields.io/badge/followers/-aarzoosharma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aarzoo-sharma-57288b194/detail/contact-info/)](https://www.linkedin.com/in/aarzoo-sharma-57288b194/detail/contact-info/)
+[![Linkedin: AarzooSharma](https://img.shields.io/badge/-aarzoosharma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aarzoo-sharma-57288b194/detail/contact-info/)](https://www.linkedin.com/in/aarzoo-sharma-57288b194/detail/contact-info/)
 
 
 
