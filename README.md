@@ -22,19 +22,34 @@ const Aarzoo = {
                         Member: "WomenWhoCode",
                         Member: "WomenInTech"
                       },
- My Story: "Progress, not perfection. I am a third-year undergraduate
- student pursuing Computer Engineering.
- I have always admired the world of technology, and here I am,
- pursuing my dream career.
- Developers and engineers have always been my superheroes."
+ Intro: 
+ Hello World! 
 
-"I am a firm believer in Women in Tech and using STEM for Social Good. 
-I recently represented India at Girl Up's STEM for Social Good Tour hosted 
-a fireside chat with Ms. Lauren Neal, Vice President, Booz Allen Hamilton, USA."
+ I am Aarzoo , 
+ A Stemminist who talks about STEM, Tech, 
+ Social Impact & her daily life meddles.👩‍💻
 
-"As I move ahead with my technical journey, I want to be more purposeful in my 
-contributions to the tech community and many people who share the same dream, 
-to be a great developer from one day to day one!."
+you can also call me 'Sharmaji ki beti' ^_^
+
+Programmers and Engineers have been my 
+superheroes ever since childhood. 
+
+I am grateful to have chosen Computer 
+science as a major. :D
+
+
+Everyday I try to be atleast 1% better 
+than the person I was yesterday. 
+
+Powered up with a vision to use Tech 
+for Social Good and giving back to
+the community.💖
+
+
+That's all for the intro, folks!
+
+
+Let's connect.🚀💯
 
 }
 ```
