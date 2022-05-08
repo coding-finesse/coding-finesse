@@ -22,23 +22,24 @@ techCommunities: {
          Mentee: "WomenWhoCode",
          Member: "WomenInTech"
          Member: "WomenTechmakers"
+         Mentee: "RewritingTheCode",
                       },
 Intro: 
- 
 Hello World! I am Aarzoo, a Stemminist 
-and CS Junior 
-who talks about STEM, Tech, 
-Social Impact & her 
-daily life meddles. 👩‍💻 
+and CS Junior who talks about STEM, 
+Tech, Social Impact & her daily 
+life meddles. 👩‍💻 
 
-Passionate about Technology and 
-the drive for innovation it brings along!
+I love tinkering with software and 
+building programs that make our 
+lives simpler!:D
+
 }
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Long story-short: My diverse experiences are bound by two core values- Technology and Social impact.
   
   </b>
-  <b>let’s connect!</b> :)</em>
+  <b>let’s connect!🚀</b> </em>
 
 ---
