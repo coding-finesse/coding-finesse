@@ -17,14 +17,18 @@ const Aarzoo = {
   code: [C++, HTML, CSS, C#],
   tools: [Unity, Blender, Google Cloud],
   
-  techCommunities: {
-                        Microsoft Learn Student Ambassador: "Microsoft",
-                        Member: "WomenWhoCode",
-                        Member: "WomenInTech"
+techCommunities: {
+         Ambassador: "Microsoft Learn",
+         Mentee: "WomenWhoCode",
+         Member: "WomenInTech"
+         Member: "WomenTechmakers"
                       },
- Intro: 
-Hello World! I am Aarzoo, A Stemminist and CS Junior 
-who talks about STEM, Tech, Social Impact & her 
+Intro: 
+ 
+Hello World! I am Aarzoo, a Stemminist 
+and CS Junior 
+who talks about STEM, Tech, 
+Social Impact & her 
 daily life meddles. 👩‍💻 
 
 Passionate about Technology and 
