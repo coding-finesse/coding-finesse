@@ -23,40 +23,18 @@ const Aarzoo = {
                         Member: "WomenInTech"
                       },
  Intro: 
- Hello World! 
+Hello World! I am Aarzoo, A Stemminist and CS Junior 
+who talks about STEM, Tech, Social Impact & her 
+daily life meddles. 👩‍💻 
 
- I am Aarzoo , 
- A Stemminist who talks about STEM, Tech, 
- Social Impact & her daily life meddles.👩‍💻
-
-you can also call me 'Sharmaji ki beti' ^_^
-
-Programmers and Engineers have been my 
-superheroes ever since childhood. 
-
-I am grateful to have chosen Computer 
-science as a major. :D
-
-
-Everyday I try to be atleast 1% better 
-than the person I was yesterday. 
-
-Powered up with a vision to use Tech 
-for Social Good and giving back to
-the community.💖
-
-
-That's all for the intro, folks!
-
-
-Let's connect.🚀💯
-
+Passionate about Technology and 
+the drive for innovation it brings along!
 }
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Long story-short: My diverse experiences are bound by two core values- Technology and Social impact.
   
-  </b> Here is my life story; and I hope to learn from yours- 
+  </b>
   <b>let’s connect!</b> :)</em>
 
 ---
