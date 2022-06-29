@@ -15,7 +15,7 @@ along their journey from leaders to changemakers.
 - 💬 Ask me about Networking, Hackathons, Front End Dev or any tech-related stuff.
 - 🎙️ I'm always ready to collaborate over podcasts and hackathons.
 - 📫 How to contact me: Check social links below or [mail me](sharma.aarzoo21@gmail.com).
-- ⚡ Fun fact: I spend almost half of my day tuning in to songs.
+- ⚡ Fun fact: My favorite childhood cartoon was Tom & Jerry.
 - ☕ If you wish to connect with me for a coffee chit-chat: [Book a slot at your convenience, and we’re good to go!](https://topmate.io/aarzoosharma)  
 
 <h3>🌐 Socials</h3>
