@@ -20,9 +20,10 @@ along their journey from leaders to changemakers.
 
 <h3>🌐 Socials</h3>
 
-[![Twitter: AarzooSharma](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fcoding_finesse%3Fs%3D09)](https://twitter.com/coding_finesse?s=09)
-[![Linkedin: AarzooSharma](https://img.shields.io/badge/-aarzoosharma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aarzoo-sharma12)](https://www.linkedin.com/in/aarzoo-sharma12)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@aarzoo-sharma) 
+<a href="https://twitter.com/coding_finesse" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/aarzoo-sharma12" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href='https://medium.com/@aarzoo-sharma' target="_blank"><img alt='Medium' src='https://img.shields.io/badge/MEDIUM-100000?style=for-the-badge&logo=Medium&logoColor=FFFFFF&labelColor=000000&color=000000'/></a>
+<a href='https://hashnode.com/@aarzoo-sharma' target="_blank"><img alt='Hashnode' src='https://img.shields.io/badge/HASHNODE-100000?style=for-the-badge&logo=Hashnode&logoColor=3B82F0&labelColor=FFFFFF&color=FFFFFF'/></a>
 
 <h3>💻 Tech Stack</h3>
 
