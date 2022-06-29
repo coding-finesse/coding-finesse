@@ -14,7 +14,7 @@ along their journey from leaders to changemakers.
 - 🤔 I’m looking forward to help with open-source projects and career guidance.
 - 💬 Ask me about Networking, Hackathons, Front End Dev or any tech-related stuff.
 - 🎙️ I'm always ready to collaborate over podcasts and hackathons.
-- 📫 How to contact me: Check social links below or [mail me](sharma.aarzoo21@gmail.com).
+- 📫 How to contact me: Check social links below or [mail me](mailto:sharma.aarzoo21@gmail.com).
 - ⚡ Fun fact: My favorite childhood cartoon was Tom & Jerry.
 - ☕ If you wish to connect with me for a coffee chit-chat: [Book a slot at your convenience, and we’re good to go!](https://topmate.io/aarzoosharma)  
 
