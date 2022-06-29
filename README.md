@@ -4,7 +4,8 @@
          width="45" /> I'm Aarzoo</h1>
 
 
-# 💫 About Me :
+<h2>💫 About Me :</h2>
+
 - 😄 Pronouns: She/Her
 - 🔭 I’m currently building my portfolio site.
 - 🌱 I’m currently learning more about Front-End Technologies.
@@ -17,12 +18,14 @@ along their journey from leaders to changemakers.
 - ⚡ Fun fact: I spend almost half of my day tuning in to songs.
 - ☕ If you wish to connect with me for a coffee chit-chat: [Book a slot at your convenience, and we’re good to go!](https://topmate.io/aarzoosharma)  
 
-## 🌐 Socials
+<h3>🌐 Socials</h3>
+
 [![Twitter: AarzooSharma](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fcoding_finesse%3Fs%3D09)](https://twitter.com/coding_finesse?s=09)
 [![Linkedin: AarzooSharma](https://img.shields.io/badge/-aarzoosharma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aarzoo-sharma12)](https://www.linkedin.com/in/aarzoo-sharma12)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@aarzoo-sharma) 
 
-## 💻 Tech Stack
+<h3>💻 Tech Stack</h3>
+
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
