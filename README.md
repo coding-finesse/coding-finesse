@@ -23,7 +23,9 @@ along their journey from leaders to changemakers.
 - 🎙️ I'm always ready to collaborate over podcasts and hackathons.
 - 📫 How to contact me: Check social links below or [mail me](mailto:sharma.aarzoo21@gmail.com).
 - ⚡ Fun fact: My favorite childhood cartoon was Tom & Jerry.
-- ☕ If you wish to connect with me for a coffee chit-chat: [Book a slot at your convenience, and we’re good to go!](https://topmate.io/aarzoosharma)  
+- ☕ If you wish to connect with me for a coffee chit-chat: [Book a slot at your convenience, and we’re good to go!](https://topmate.io/aarzoosharma) 
+
+![](https://github.com/coding-finesse/snk/raw/output/github-contribution-grid-snake.svg)
 
 <h3>🌐 My Socials</h3>
 
@@ -80,6 +82,8 @@ along their journey from leaders to changemakers.
 <h3>🚀Here's some dev motivation , for you !</h3>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
 
 
 
