@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/78272033/178948114-a20df784-1f13-43a3-9c36-84be71efc892.gif" alt="scaler-create-impact" />
 </p> -->
 
-![headd](https://user-images.githubusercontent.com/78272033/178954141-079cc45a-a4f1-474f-b6a0-470a5da7cfd3.png)
+![Twitch Profile Banner](https://user-images.githubusercontent.com/78272033/178955121-ac5eef08-f500-4b30-bf56-2da6e72508c2.png)
 
 
 <h1 align="center"> Welcome <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
