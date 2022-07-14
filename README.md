@@ -22,7 +22,7 @@ along their journey from leaders to changemakers.
 - 💬 Ask me about networking or any tech-related stuff.
 - 🎙️ I'm always ready to collaborate over podcasts and hackathons.
 - 📫 How to contact me: Check social links below or [mail me](mailto:sharma.aarzoo21@gmail.com).
-- ☕ If you wish to connect with me for a coffee chit-chat: [Book a slot at your convenience, and we’re good to go!](https://topmate.io/aarzoosharma) 
+- ☕ If you wish to connect with me for a coffee chat: [Book a slot at your convenience, and we’re good to go!](https://topmate.io/aarzoosharma) 
 
 ![](https://github.com/coding-finesse/snk/raw/output/github-contribution-grid-snake.svg)
 
