@@ -1,12 +1,14 @@
-<p align="center" >
+<!-- <p align="center" >
   <img src="https://user-images.githubusercontent.com/78272033/178948114-a20df784-1f13-43a3-9c36-84be71efc892.gif" alt="scaler-create-impact" />
-</p>
+</p> -->
+
+![headd](https://user-images.githubusercontent.com/78272033/178954141-079cc45a-a4f1-474f-b6a0-470a5da7cfd3.png)
 
 
-<h1 align="center"> Hi! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+<h1 align="center"> Welcome <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
-         width="45" /> I'm Aarzoo</h1>
+         width="45" /> to my Github Profile</h1>
 
 
 <h2>💫 About Me :</h2>
@@ -69,9 +71,9 @@ along their journey from leaders to changemakers.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=coding-finesse&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=coding-finesse&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<h3>📃Github Profile Summary Card</h3>
+<!-- <h3>📃Github Profile Summary Card</h3>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coding-finesse&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coding-finesse&theme=radical) -->
 
 <h3>🖱️Random Dev Quote</h3>
 
