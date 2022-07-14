@@ -18,11 +18,10 @@
 - 🌱 I’m currently learning more about Front-End Technologies.
 - 👧🏽 I also run a non-profit org [GirlUp Ludhiana](https://girlupludhiana.vercel.app/), guiding girls 
 along their journey from leaders to changemakers.
-- 🤔 I’m looking forward to help with open-source projects and career guidance.
-- 💬 Ask me about Networking, Hackathons, Front End Dev or any tech-related stuff.
+- 🤔 I’m looking forward to help with open-source projects and opportunities.
+- 💬 Ask me about networking or any tech-related stuff.
 - 🎙️ I'm always ready to collaborate over podcasts and hackathons.
 - 📫 How to contact me: Check social links below or [mail me](mailto:sharma.aarzoo21@gmail.com).
-- ⚡ Fun fact: My favorite childhood cartoon was Tom & Jerry.
 - ☕ If you wish to connect with me for a coffee chit-chat: [Book a slot at your convenience, and we’re good to go!](https://topmate.io/aarzoosharma) 
 
 ![](https://github.com/coding-finesse/snk/raw/output/github-contribution-grid-snake.svg)
