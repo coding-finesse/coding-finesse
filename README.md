@@ -8,7 +8,7 @@
 <h1 align="center"> Welcome <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
-         width="45" /> to my Github Profile</h1>
+         width="45" /> to my Github Profile :D</h1>
 
 
 <h2>💫 About Me :</h2>
