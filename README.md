@@ -11,7 +11,7 @@
          width="45" /> to my Github Profile :D</h1>
 
 
-<h2>💫 About Me :</h2>
+<h3>💫 About Me :</h3>
 
 - 😄 Pronouns: She/Her
 - 🔭 I’m currently building my portfolio site.
@@ -25,7 +25,7 @@ along their journey from leaders to changemakers.
 - ⚡ Fun fact: My favorite childhood cartoon was Tom & Jerry.
 - ☕ If you wish to connect with me for a coffee chit-chat: [Book a slot at your convenience, and we’re good to go!](https://topmate.io/aarzoosharma)  
 
-<h3>🌐 Socials</h3>
+<h3>🌐 My Socials</h3>
 
 <a href="https://twitter.com/coding_finesse" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/aarzoo-sharma12" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -77,7 +77,12 @@ along their journey from leaders to changemakers.
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coding-finesse&theme=radical) -->
 
-<h3>🖱️Random Dev Quote</h3>
+<h3>🚀Here's some dev motivation , for you !</h3>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+
+
+
 ---
