@@ -58,8 +58,8 @@ along their journey from leaders to changemakers.
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 <!-- ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) -->
-<!-- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) -->
- <!-- ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)  -->
+<!-- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  -->
+<!-- ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)  -->
 
 <h3>📈Github Activity Graph</h3>
 
@@ -68,7 +68,9 @@ along their journey from leaders to changemakers.
 <h3>📟 GitHub Stats</h3>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coding-finesse&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-![](https://github-readme-streak-stats.herokuapp.com/?user=coding-finesse&theme=radical&hide_border=false)<br/>
+
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=coding-finesse&theme=radical&hide_border=false)<br/> -->
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=coding-finesse&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- <h3>📃Github Profile Summary Card</h3>
