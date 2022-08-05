@@ -14,7 +14,6 @@
 <h3>💫 About Me :</h3>
 
 - 😄 Pronouns: She/Her
-- 🔭 I’m currently building my portfolio site.
 - 🌱 I’m currently learning more about Front-End Technologies.
 - 👧🏽 I also run a non-profit org [GirlUp Ludhiana](https://girlupludhiana.vercel.app/), guiding girls 
 along their journey from leaders to changemakers.
