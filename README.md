@@ -2,7 +2,11 @@
   <img src="https://user-images.githubusercontent.com/78272033/178948114-a20df784-1f13-43a3-9c36-84be71efc892.gif" alt="scaler-create-impact" />
 </p> -->
 
-![Github Banner Gif](link)
+<p align="center" > 
+
+![Github Banner Gif](https://github.com/coding-finesse/coding-finesse/blob/main/Hello%20World%20(1).gif)
+
+</p>
 
 <!-- ![li](https://user-images.githubusercontent.com/78272033/178955717-2af38d0a-a3f5-439e-b875-82ffe586761b.png) -->
 
