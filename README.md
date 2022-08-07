@@ -11,10 +11,10 @@
 <!-- ![li](https://user-images.githubusercontent.com/78272033/178955717-2af38d0a-a3f5-439e-b875-82ffe586761b.png) -->
 
 
-<h1 align="center"> Welcome <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+ <!-- <h1 align="center"> Welcome <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
-         width="45" /> to my Github Profile :D</h1>
+         width="45" /> </h1> -->
 
 
 <h3>💫 About Me :</h3>
