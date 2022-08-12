@@ -82,7 +82,7 @@ along their journey from leaders to changemakers.
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
+<!-- ![Leetcode Stats](https://leetcode.card.workers.dev/?username=coding_finesse&theme=radical) -->
 
 
 
