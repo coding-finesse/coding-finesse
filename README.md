@@ -17,18 +17,22 @@
          width="45" /> </h1> -->
 
 
-<h3>💫 About Me :</h3>
+### 💫 About Me:
 
 - 😄 Pronouns: She/Her
-- 🌱 I’m currently learning more about Front-End Technologies.
-- 👧🏽 I also run a non-profit org [GirlUp Ludhiana](https://girlupludhiana.vercel.app/), guiding girls 
-along their journey from leaders to changemakers.
-- 🤔 I’m looking forward to help with open-source projects and opportunities.
-- 💬 Ask me about networking or any tech-related stuff.
-- 🎙️ I'm always ready to collaborate over podcasts and hackathons.
-- 📫 How to contact me: Check social links below or [mail me](mailto:sharma.aarzoo21@gmail.com).
-- ☕ If you wish to connect with me for a coffee chat: [Book a slot at your convenience, and we’re good to go!](https://topmate.io/aarzoosharma) 
+- 🌱 Currently exploring Front-End Technologies.
+- 💻 Recently interned with [Zomato](https://github.com/zomato) as a Software Development Intern.
+- 👩🏻‍💻 Check out my Zomato Github contributions: [z-aarzoo](https://github.com/z-aarzoo)
+- 👧🏽 I also lead a non-profit organization, [GirlUp Ludhiana](https://girlupludhiana.vercel.app/), empowering girls along their journey from leaders to changemakers.
+- 🤔 I'm eager to contribute to open-source projects and collaborate with like-minded individuals.
+- 💬 Feel free to ask me about networking or any tech-related topics.
+- 🎙️ I'm always open to collaboration for podcasts and hackathons.
+- 📫 How to reach me: Check the social links below or [email me](mailto:sharma.aarzoo21@gmail.com).
+- ☕ If you'd like to schedule a coffee chat, [book a slot at your convenience, and we’re good to go!](https://topmate.io/aarzoosharma)
+- 📚 To explore my tech journey, visit [bento.me/aarzoo](https://bento.me/aarzoo) which showcases my experiences and projects.
 
+Feel free to explore my work and connect with me. Let's create something amazing together! ✨
+ 
 ![](https://github.com/coding-finesse/snk/raw/output/github-contribution-grid-snake.svg)
 
 <h3>🌐 My Socials</h3>
@@ -62,13 +66,14 @@ along their journey from leaders to changemakers.
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 <!-- ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)  -->
 
-<h3>📈Github Activity Graph</h3>
+<!-- <h3>📈Github Activity Graph</h3>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=coding-finesse&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=coding-finesse&theme=radical)]
+(https://github.com/ashutosh00710/github-readme-activity-graph)  -->
 
 <h3>📟 GitHub Stats</h3>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coding-finesse&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coding-finesse&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  -->
 
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=coding-finesse&theme=radical&hide_border=false)<br/> -->
 
