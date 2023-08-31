@@ -1,26 +1,14 @@
-<!-- <p align="center" >
-  <img src="https://user-images.githubusercontent.com/78272033/178948114-a20df784-1f13-43a3-9c36-84be71efc892.gif" alt="scaler-create-impact" />
-</p> -->
-
 <p align="center" > 
 
 ![Github Banner Gif](https://github.com/coding-finesse/coding-finesse/blob/main/Hello%20World%20(1).gif)
 
 </p>
 
-<!-- ![li](https://user-images.githubusercontent.com/78272033/178955717-2af38d0a-a3f5-439e-b875-82ffe586761b.png) -->
-
-
- <!-- <h1 align="center"> Welcome <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-         alt="Waving hand animated gif"
-         height="45"
-         width="45" /> </h1> -->
-
-
 ### 💫 About Me:
 
 - 😄 Pronouns: She/Her
 - 🌱 Constantly evolving, just like my codebase
+- 👩🏻‍💻 Software Developer at [Natwest Group](https://github.com/natwest) (erstwhile Royal Bank Of Scotland)
 - 💻 Recently interned with [Zomato](https://github.com/zomato) as a Software Development Intern.
 - 👩🏻‍💻 Check out my Zomato Github contributions: [z-aarzoo](https://github.com/z-aarzoo)
 - 🥈 Accenture Innovation Challenge First Runner Up | 🏆 Microsoft Imagine Cup, India - Health Category Winner
