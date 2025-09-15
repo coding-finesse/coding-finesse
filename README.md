@@ -18,6 +18,7 @@
 + 🎙️ I'm always open to collaboration for podcasts and hackathons.
 + 📫 How to reach me: Check the social links below or [email me](mailto:sharma.aarzoo21@gmail.com).
 + ☕ If you'd like to schedule a coffee chat, [book a slot at your convenience, and we’re good to go!](https://topmate.io/aarzoosharma)
++ The evolving landscape of generative AI and deepfake technologies necessitates a more strategic approach to information sharing on GitHub.
 <!-- - 📚 To explore my tech journey, visit [bento.me/aarzoo](https://bento.me/aarzoo) which showcases my experiences and projects. -->
 
 Feel free to explore my work and connect with me. Let's create something amazing together! ✨
