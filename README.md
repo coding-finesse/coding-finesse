@@ -6,19 +6,19 @@
 
 ### 💫 About Me:
 
-- 😄 Pronouns: She/Her
-- 🌱 Constantly evolving, just like my codebase
-- 👩🏻‍💻 Software Developer at [Natwest Group](https://github.com/natwest) (erstwhile Royal Bank Of Scotland)
-- 💻 Recently interned with [Zomato](https://github.com/zomato) as a Software Development Intern.
-- 👩🏻‍💻 Check out my Zomato Github contributions: [z-aarzoo](https://github.com/z-aarzoo)
-- 🥈 Accenture Innovation Challenge First Runner Up | 🏆 Microsoft Imagine Cup, India - Health Category Winner
-- 👧🏽 I also lead a non-profit organization, [GirlUp Ludhiana](https://girlupludhiana.vercel.app/), empowering girls along their journey from leaders to changemakers.
-- 🤔 I'm eager to contribute to open-source projects and collaborate with like-minded individuals.
-- 💬 Feel free to ask me about networking or any tech-related topics.
-- 🎙️ I'm always open to collaboration for podcasts and hackathons.
-- 📫 How to reach me: Check the social links below or [email me](mailto:sharma.aarzoo21@gmail.com).
-- ☕ If you'd like to schedule a coffee chat, [book a slot at your convenience, and we’re good to go!](https://topmate.io/aarzoosharma)
-- 📚 To explore my tech journey, visit [bento.me/aarzoo](https://bento.me/aarzoo) which showcases my experiences and projects.
++ 😄 Pronouns: She/Her
++ 🌱 Constantly evolving, just like my codebase
++ 👩🏻‍💻 Software Developer at [Natwest Group](https://github.com/natwest) (erstwhile Royal Bank Of Scotland)
++ 💻 Recently interned with [Zomato](https://github.com/zomato) as a Software Development Intern.
++ 👩🏻‍💻 Check out my Zomato Github contributions: [z-aarzoo](https://github.com/z-aarzoo)
++ 🥈 Accenture Innovation Challenge First Runner Up | 🏆 Microsoft Imagine Cup, India - Health Category Winner
++ 👧🏽 I also lead a non-profit organization, [GirlUp Ludhiana](https://girlupludhiana.vercel.app/), empowering girls along their journey from leaders to changemakers.
++ 🤔 I'm eager to contribute to open-source projects and collaborate with like-minded individuals.
++ 💬 Feel free to ask me about networking or any tech-related topics.
++ 🎙️ I'm always open to collaboration for podcasts and hackathons.
++ 📫 How to reach me: Check the social links below or [email me](mailto:sharma.aarzoo21@gmail.com).
++ ☕ If you'd like to schedule a coffee chat, [book a slot at your convenience, and we’re good to go!](https://topmate.io/aarzoosharma)
+<!-- - 📚 To explore my tech journey, visit [bento.me/aarzoo](https://bento.me/aarzoo) which showcases my experiences and projects. -->
 
 Feel free to explore my work and connect with me. Let's create something amazing together! ✨
  
@@ -74,17 +74,14 @@ Feel free to explore my work and connect with me. Let's create something amazing
 <h3>🌟Recent Accomplishment</h3>
 <p>Recognized as an <strong>Unstoppable Leader in India</strong> at the prestigious Unstop Awards 2023, covered by Forbes India. Selected from over 32,000 nominations nationwide for exceptional performance in hacks, engineering challenges, and competitions.</p>
 
-<p><a href="https://github.com/coding-finesse/coding-finesse/assets/78272033/49422584-807c-4188-a05f-8f8e468ac8bb">View My Achievements</a></p>
+<!-- <p><a href="https://github.com/coding-finesse/coding-finesse/assets/78272033/49422584-807c-4188-a05f-8f8e468ac8bb">View My Achievements</a></p> -->
 
 
 
-
-
-
-
-<h3>🚀Here's some dev motivation , for you !</h3>
+<h3> 🚀Here's some dev motivation , for you !</h3>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 <!-- ![Leetcode Stats](https://leetcode.card.workers.dev/?username=coding_finesse&theme=radical) -->
 
