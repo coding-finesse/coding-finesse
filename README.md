@@ -40,8 +40,9 @@ Feel free to explore my work and connect with me. Let's create something amazing
 <a href="https://www.linkedin.com/in/aarzoo-sharma12" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href='https://medium.com/@aarzoo-sharma' target="_blank"><img alt='Medium' src='https://img.shields.io/badge/MEDIUM-100000?style=for-the-badge&logo=Medium&logoColor=FFFFFF&labelColor=000000&color=000000'/></a>
 <a href='https://hashnode.com/@aarzoo-sharma' target="_blank"><img alt='Hashnode' src='https://img.shields.io/badge/HASHNODE-100000?style=for-the-badge&logo=Hashnode&logoColor=3B82F0&labelColor=FFFFFF&color=FFFFFF'/></a>
-<a href='https://bio.link/aarzoosharma' target="_blank"><img alt='bio link' src='https://img.shields.io/badge/All_Links-100000?style=for-the-badge&logo=bio link&logoColor=0B0202&labelColor=CD129B&color=CD129B'/></a>
 <a href='https://portfolio-site-coral.vercel.app/' target="_blank"><img alt='react' src='https://img.shields.io/badge/My_Portfolio Site-100000?style=for-the-badge&logo=react&logoColor=white&labelColor=black&color=B01414'/></a>
+<!-- <a href='https://bio.link/aarzoosharma' target="_blank"><img alt='bio link' src='https://img.shields.io/badge/All_Links-100000?style=for-the-badge&logo=bio link&logoColor=0B0202&labelColor=CD129B&color=CD129B'/></a> -->
+
 
 <h3>💻 Tech Stack</h3>
 
