@@ -10,7 +10,8 @@
 + 🌱 Constantly evolving, just like my codebase
 + 💻 **Former Software Development Intern @ [Zomato](https://github.com/zomato)**
 + 👩🏻‍💻 **Former Software Developer @ [NatWest Group](https://github.com/natwest) (RBS)**
-+ 🔍 **Currently exploring: Remote / Hybrid SDE 2 roles & Global STEM Research opportunities**
++ 🎓 **Transitioning into Global STEM Research & Advanced Engineering**
++ 🔍 **Open to: Remote / Hybrid SDE 2 roles & Research Collaborations**
 + 👩🏻‍💻 Check out my Zomato Github contributions: [z-aarzoo](https://github.com/z-aarzoo)
 + 🥈 Accenture Innovation Challenge First Runner Up | 🏆 Microsoft Imagine Cup, India - Health Category Winner
 + 👧🏽 I also lead a non-profit organization, [GirlUp Ludhiana](https://girlupludhiana.vercel.app/), empowering girls along their journey from leaders to changemakers.
@@ -21,6 +22,8 @@
 + ☕ If you'd like to schedule a coffee chat, [book a slot at your convenience, and we’re good to go!](https://topmate.io/aarzoosharma)
 + The evolving landscape of generative AI and deepfake technologies necessitates a more strategic approach to information sharing on GitHub.
 <!-- - 📚 To explore my tech journey, visit [bento.me/aarzoo](https://bento.me/aarzoo) which showcases my experiences and projects. -->
+
+> "Taking a step back from the daily grind to focus on the architecture of the future."
 
 Feel free to explore my work and connect with me. Let's create something amazing together! ✨
  
