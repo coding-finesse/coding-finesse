@@ -6,22 +6,27 @@
 
 ### 💫 About Me:
 
-+ 😄 Pronouns: She/Her
-+ 🌱 Constantly evolving, just like my codebase
-+ 💻 **Former Software Development Intern @ [Zomato](https://github.com/zomato)**
-+ 👩🏻‍💻 **Former Software Developer @ [NatWest Group](https://github.com/natwest) (RBS)**
-+ 🎓 **Transitioning into Global STEM Research & Advanced Engineering**
-+ 🔍 **Open to: Remote / Hybrid SDE 2 roles & Research Collaborations**
-+ 👩🏻‍💻 Check out my Zomato Github contributions: [z-aarzoo](https://github.com/z-aarzoo)
-+ 🥈 Accenture Innovation Challenge First Runner Up | 🏆 Microsoft Imagine Cup, India - Health Category Winner
-+ 👧🏽 I also lead a non-profit organization, [GirlUp Ludhiana](https://girlupludhiana.vercel.app/), empowering girls along their journey from leaders to changemakers.
-+ 🤔 I'm eager to contribute to open-source projects and collaborate with like-minded individuals.
-+ 💬 Feel free to ask me about networking or any tech-related topics.
-+ 🎙️ I'm always open to collaboration for podcasts and hackathons.
-+ 📫 How to reach me: Check the social links below or [email me](mailto:sharma.aarzoo21@gmail.com).
-+ ☕ If you'd like to schedule a coffee chat, [book a slot at your convenience, and we’re good to go!](https://topmate.io/aarzoosharma)
+* 😄 **Pronouns:** She/Her
+* 🌱 **Philosophy:** Constantly evolving, just like my codebase
+* 💻 **Experience:** Former Software Development Intern @ **[Zomato](https://github.com/zomato)** (Check my work: [z-aarzoo](https://github.com/z-aarzoo))
+* 👩🏻‍💻 **Experience:** Former Software Developer @ **[NatWest Group](https://github.com/natwest)** (RBS)
+* 🎓 **Current:** Transitioning into Global STEM Research & Advanced Engineering
+* 🔍 **Open to:** Remote / Hybrid SDE 2 roles & Research Collaborations
 
-<!-- - 📚 To explore my tech journey, visit [bento.me/aarzoo](https://bento.me/aarzoo) which showcases my experiences and projects. -->
+---
+
+### 🏆 Recognitions & Impact
+* 🥈 **Accenture Innovation Challenge:** First Runner Up
+* 🏆 **Microsoft Imagine Cup, India:** Health Category Winner
+* 👧🏽 **Leadership:** Lead at **[GirlUp Ludhiana](https://girlupludhiana.vercel.app/)** – Empowering girls to become changemakers.
+
+---
+
+### 🤝 Let's Connect
+* 🤔 **Collab:** Open-source projects and like-minded collaborations.
+* 💬 **Chat:** Ask me about networking or tech-related topics.
+* 🎙️ **Engagements:** Open for podcasts and hackathons.
+* 📫 **Reach Me:** [Email me](mailto:sharma.aarzoo21@gmail.com) or book a **[Coffee Chat](https://topmate.io/aarzoosharma)**.
 
 > "Taking a step back from the daily grind to focus on the architecture of the future."
 
@@ -77,6 +82,9 @@ Feel free to explore my work and connect with me. Let's create something amazing
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coding-finesse&theme=radical) -->
 <h3>🌟Recent Accomplishment</h3>
+
+> "Wait for a while—amazing things are currently in the works, will update later. ✨"
+
 <p>Recognized as an <strong>Unstoppable Leader in India</strong> at the prestigious Unstop Awards 2023, covered by Forbes India. Selected from over 32,000 nominations nationwide for exceptional performance in hacks, engineering challenges, and competitions.</p>
 
 <!-- <p><a href="https://github.com/coding-finesse/coding-finesse/assets/78272033/49422584-807c-4188-a05f-8f8e468ac8bb">View My Achievements</a></p> -->
