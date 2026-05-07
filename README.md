@@ -8,8 +8,9 @@
 
 + 😄 Pronouns: She/Her
 + 🌱 Constantly evolving, just like my codebase
-+ 👩🏻‍💻 Software Developer at [Natwest Group](https://github.com/natwest) (erstwhile Royal Bank Of Scotland)
-+ 💻 Recently interned with [Zomato](https://github.com/zomato) as a Software Development Intern.
++ 💻 **Former Software Development Intern @ [Zomato](https://github.com/zomato)**
++ 👩🏻‍💻 **Former Software Developer @ [NatWest Group](https://github.com/natwest) (RBS)**
++ 🔍 **Currently exploring: Remote / Hybrid SDE 2 roles & Global STEM Research opportunities**
 + 👩🏻‍💻 Check out my Zomato Github contributions: [z-aarzoo](https://github.com/z-aarzoo)
 + 🥈 Accenture Innovation Challenge First Runner Up | 🏆 Microsoft Imagine Cup, India - Health Category Winner
 + 👧🏽 I also lead a non-profit organization, [GirlUp Ludhiana](https://girlupludhiana.vercel.app/), empowering girls along their journey from leaders to changemakers.
