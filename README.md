@@ -10,8 +10,8 @@
 * 🌱 **Philosophy:** Constantly evolving, just like my codebase
 * 💻 **Experience:** Former Software Development Intern @ **[Zomato](https://github.com/zomato)** (Check my work: [z-aarzoo](https://github.com/z-aarzoo))
 * 👩🏻‍💻 **Experience:** Former Software Developer @ **[NatWest Group](https://github.com/natwest)** (RBS)
-* 🎓 **Current:** Transitioning into Global STEM Research & Advanced Engineering
-* 🔍 **Open to:** Remote / Hybrid SDE 2 roles & Research Collaborations
+* 🎓 **Current:** Transitioning into Europe + Masters + STEM Research & Advanced Engineering globally 
+* 🔍 **Open to:** Full-time SDE / SDE-2 roles, advanced technical internships, and research collaborations within Europe & the US. Ready to talk systems scale, backend performance, or foundational Al infrastructure.
 
 ---
 
@@ -28,7 +28,7 @@
 * 🎙️ **Engagements:** Open for podcasts and hackathons.
 * 📫 **Reach Me:** [Email me](mailto:sharma.aarzoo21@gmail.com) or book a **[Coffee Chat](https://topmate.io/aarzoosharma)**.
 
-> "Taking a step back from the daily grind to focus on the architecture of the future."
+> "Expecto Patronum 🪄"
 
 Feel free to explore my work and connect with me. Let's create something amazing together! ✨
  
@@ -84,7 +84,7 @@ Feel free to explore my work and connect with me. Let's create something amazing
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coding-finesse&theme=radical) -->
 <h3>🌟Recent Accomplishment</h3>
 
-> "Wait for a while—amazing things are currently in the works, will update later. ✨"
+> "Feeling shy will update later ."
 
 <p>Recognized as an <strong>Unstoppable Leader in India</strong> at the prestigious Unstop Awards 2023, covered by Forbes India. Selected from over 32,000 nominations nationwide for exceptional performance in hacks, engineering challenges, and competitions.</p>
 
