@@ -28,7 +28,7 @@
 * 🎙️ **Engagements:** Open for podcasts and hackathons.
 * 📫 **Reach Me:** [Email me](mailto:sharma.aarzoo21@gmail.com) or book a **[Coffee Chat](https://topmate.io/aarzoosharma)**.
 
-> "Expecto Patronum 🪄"
+> Expecto Patronum 🪄
 
 Feel free to explore my work and connect with me. Let's create something amazing together! ✨
  
@@ -71,7 +71,7 @@ Feel free to explore my work and connect with me. Let's create something amazing
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=coding-finesse&theme=radical)]
 (https://github.com/ashutosh00710/github-readme-activity-graph)  -->
 
-<h3>📟 GitHub Stats</h3>
+<!--  <h3>📟 GitHub Stats</h3> 
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coding-finesse&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  -->
 
@@ -84,7 +84,7 @@ Feel free to explore my work and connect with me. Let's create something amazing
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coding-finesse&theme=radical) -->
 <h3>🌟Recent Accomplishment</h3>
 
-> "Feeling shy will update later ."
+> Feeling shy will update later .
 
 <p>Recognized as an <strong>Unstoppable Leader in India</strong> at the prestigious Unstop Awards 2023, covered by Forbes India. Selected from over 32,000 nominations nationwide for exceptional performance in hacks, engineering challenges, and competitions.</p>
 
