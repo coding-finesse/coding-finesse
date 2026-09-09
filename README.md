@@ -11,7 +11,7 @@
 * 💻 **Experience:** Former Software Development Intern @ **[Zomato](https://github.com/zomato)** (Check my work: [z-aarzoo](https://github.com/z-aarzoo))
 * 👩🏻‍💻 **Experience:** Former Software Developer @ **[NatWest Group](https://github.com/natwest)** (RBS)
 * 🎓 **Current:** Transitioning into Europe + Masters + STEM Research & Advanced Engineering globally 
-* 🔍 **Open to:** Full-time SDE / SDE-2 roles, advanced technical internships, and research collaborations within Europe & the US. Ready to talk systems scale, backend performance, or foundational Al infrastructure.
+* 🔍 **Open to:** Research collaborations within Europe. Ready to talk systems scale, backend performance, or foundational Al infrastructure.
 
 ---
 
