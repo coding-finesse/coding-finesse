@@ -8,10 +8,10 @@
 
 * 😄 **Pronouns:** She/Her
 * 🌱 **Philosophy:** Constantly evolving, just like my codebase
-* 💻 **Experience:** Former Software Development Intern @ **[Zomato](https://github.com/zomato)** (Check my work: [z-aarzoo](https://github.com/z-aarzoo))
-* 👩🏻‍💻 **Experience:** Former Software Developer @ **[NatWest Group](https://github.com/natwest)** (RBS)
-* 🎓 **Current:** Transitioning into Europe + Masters + STEM Research & Advanced Engineering globally 
-* 🔍 **Open to:** Research collaborations within Europe. Ready to talk systems scale, backend performance, or foundational Al infrastructure.
+* 🇬🇧 **Current:** MSc Computer Science // Premier, Research-Intensive British Institution.
+* 🛠️ **Core Stack:** Go • Java • PHP • Spring Boot • Distributed Systems • Cloud Infrastructure.
+* 🏦 **Experience:** Ex-SDE @ **[NatWest Group](https://github.com)** (99.99% Availability Architecture) & **[Zomato](https://github.com)** (High-Concurrency Go Backend for 250k+ Nodes).
+* 💼 **Active Availability:** Open to local UK & European relocation pipelines for **Full-Stack SDE, Backend Developer, Infrastructure Engineer, and SRE** positions.
 
 ---
 
